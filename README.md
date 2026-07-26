@@ -1,4 +1,7 @@
+![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?style=flat-square)
+
 # Terraform Week 2 - Variables Lab
+
 
 This project demonstrates how to build a reusable Terraform configuration using variables, locals, outputs, and validation rules.
 
